@@ -1,0 +1,31 @@
+body {
+    background-color: black;
+    font-family: Merriweather;
+}
+ 
+.image-1 {
+    display: flex;
+    justify-content: space-around;
+    margin: 10px;
+    margin-bottom: 15px;
+}
+ 
+img {
+    border-radius: 10px;
+}
+ 
+.write-up {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 850px;
+    margin: auto;
+    color: white;
+    padding-bottom: 20px;;
+}
+ 
+.footer {
+    text-align: center;
+    padding: 4px;
+    vertical-align: auto;
+}
